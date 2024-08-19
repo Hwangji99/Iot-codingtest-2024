@@ -45,19 +45,19 @@ IoT 개발자 알고리즘고급(코딩테스트) 학습리포지토리
 
 - 학습순서 - 그리디
 
-- [복잡도]()
-- [그리디]()
+- [복잡도](https://github.com/Hwangji99/Iot-codingtest-2024/blob/main/day1/ct001_complexity.ipynb)
+- [그리디](https://github.com/Hwangji99/Iot-codingtest-2024/blob/main/day1/ct002_greedy.ipynb)
 
 ## 2일차(2024-08-16)
 - 코딩테스트 학습
-    [x] 구현
+    [x] [구현](https://github.com/Hwangji99/Iot-codingtest-2024/blob/main/day2/ct003_implement.ipynb)
 
 ## 3일차(2024-08-19)
 - 코딩테스트 학습
-    [] DFS
-    [] BFS
-    [] DP
-    [] Graph
+    [] [DFS]()
+    [] [BFS]()
+    [] [DP]()
+    [] [Graph]()
 
 ## 4일차(2024-08-20)
 
